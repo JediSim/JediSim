@@ -1,6 +1,15 @@
-### Hi there 👋
+<div align="center">
+
+# Hi there 👋
 
 <img src="gif/ecureuil.gif">
+
+# Hobbies
+
+### Freestyle Scooter 
+<img src="gif/scooter.gif" width="100">
+ 
+</div>
 
 <!--
 **JediSim/JediSim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
