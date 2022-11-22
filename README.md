@@ -2,8 +2,6 @@
 
 # Hi there 👋
 
-<img src="gif/ecureuil.gif">
-
 # Hobbies
 
 ### Freestyle Scooter 
