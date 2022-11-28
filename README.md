@@ -4,10 +4,15 @@
 
 # Hobbies
 
-### Freestyle Scooter 
+### Freestyle Scooter
+
 <img src="gif/scooter.gif" width="100">
  
 </div>
+
+## 😂 Here is a random joke that'll make you laugh Xd!
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **JediSim/JediSim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
